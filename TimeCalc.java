@@ -18,6 +18,5 @@ public class TimeCalc {
         } else {
             System.out.println(newHours + ":" + newMinutes);
         }
-
     }
 }

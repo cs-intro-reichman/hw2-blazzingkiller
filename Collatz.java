@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Collatz {
     public static void main(String args[]) {
         int limit = Integer.parseInt(args[0]); 
@@ -30,3 +31,11 @@ public class Collatz {
         }
     }
 }
+=======
+// Demonstrates the Collatz conjecture.
+public class Collatz {
+	public static void main(String args[]) {
+	    // Replace this comment with your code
+	}
+}
+>>>>>>> b99a8c848d64459553411053056aa19e0b4e68d3

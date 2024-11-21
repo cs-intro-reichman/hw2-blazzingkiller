@@ -1,5 +1,6 @@
 // Prints a crowd cheering output.
 public class Cheers {
+<<<<<<< HEAD
         public static void main(String[] args) { 
                 String word = args[0];
                 String str = word.toUpperCase();
@@ -21,3 +22,9 @@ public class Cheers {
                 }
          }
  }
+=======
+        public static void main(String[] args) {
+	    // Replace this comment with your code
+        }
+}
+>>>>>>> b99a8c848d64459553411053056aa19e0b4e68d3
