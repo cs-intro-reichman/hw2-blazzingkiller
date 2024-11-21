@@ -9,9 +9,9 @@ public class Cheers {
                 for(int i = 0; i < name.length(); ++i){
                         char letter = name.charAt(i);
                         if (specailletters.indexOf(str.charAt(i)) == -1){
-                                System.out.println( "Give me a  " + letter + ":" + " " + letter + "!");  
+                                System.out.println( "Give me an " + letter + ":" + " " + letter + "!");  
                         } else {
-                                System.out.println( "Give me an " + letter + ":" + " " + letter + "!");    
+                                System.out.println( "Give me a  " + letter + ":" + " " + letter + "!");    
                         }
                 }
                 System.out.println( "What does that spell?");  

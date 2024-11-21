@@ -15,6 +15,6 @@ public class CalcPi {
 		}
 		double piApprox = sum * 4;
 
-	System.out.println("pi, approximated: " + piApprox);
+	System.out.println("pi, approximated:     " + piApprox);
 	}
 }
